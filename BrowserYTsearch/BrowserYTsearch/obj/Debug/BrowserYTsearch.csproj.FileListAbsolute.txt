@@ -1,0 +1,15 @@
+D:\Programy\C#-projekty\BrowserYTsearch\BrowserYTsearch\BrowserYTsearch\bin\Debug\BrowserYTsearch.exe.config
+D:\Programy\C#-projekty\BrowserYTsearch\BrowserYTsearch\BrowserYTsearch\bin\Debug\BrowserYTsearch.exe
+D:\Programy\C#-projekty\BrowserYTsearch\BrowserYTsearch\BrowserYTsearch\bin\Debug\BrowserYTsearch.pdb
+D:\Programy\C#-projekty\BrowserYTsearch\BrowserYTsearch\BrowserYTsearch\obj\Debug\BrowserYTsearch.csproj.AssemblyReference.cache
+D:\Programy\C#-projekty\BrowserYTsearch\BrowserYTsearch\BrowserYTsearch\obj\Debug\MainWindow.g.cs
+D:\Programy\C#-projekty\BrowserYTsearch\BrowserYTsearch\BrowserYTsearch\obj\Debug\App.g.cs
+D:\Programy\C#-projekty\BrowserYTsearch\BrowserYTsearch\BrowserYTsearch\obj\Debug\BrowserYTsearch_MarkupCompile.cache
+D:\Programy\C#-projekty\BrowserYTsearch\BrowserYTsearch\BrowserYTsearch\obj\Debug\BrowserYTsearch_MarkupCompile.lref
+D:\Programy\C#-projekty\BrowserYTsearch\BrowserYTsearch\BrowserYTsearch\obj\Debug\MainWindow.baml
+D:\Programy\C#-projekty\BrowserYTsearch\BrowserYTsearch\BrowserYTsearch\obj\Debug\BrowserYTsearch.g.resources
+D:\Programy\C#-projekty\BrowserYTsearch\BrowserYTsearch\BrowserYTsearch\obj\Debug\BrowserYTsearch.Properties.Resources.resources
+D:\Programy\C#-projekty\BrowserYTsearch\BrowserYTsearch\BrowserYTsearch\obj\Debug\BrowserYTsearch.csproj.GenerateResource.cache
+D:\Programy\C#-projekty\BrowserYTsearch\BrowserYTsearch\BrowserYTsearch\obj\Debug\BrowserYTsearch.csproj.CoreCompileInputs.cache
+D:\Programy\C#-projekty\BrowserYTsearch\BrowserYTsearch\BrowserYTsearch\obj\Debug\BrowserYTsearch.exe
+D:\Programy\C#-projekty\BrowserYTsearch\BrowserYTsearch\BrowserYTsearch\obj\Debug\BrowserYTsearch.pdb
